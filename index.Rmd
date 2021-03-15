@@ -5,7 +5,6 @@ date: '2021-03-15'
 output:
   ioslides_presentation:
     widescreen: yes
-  pdf_document: default
 ---
 
 ```{r setup, include=FALSE}
